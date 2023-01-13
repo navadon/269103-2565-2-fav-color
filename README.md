@@ -16,7 +16,7 @@
   * 555 Pearl White
   * 029
   * 005
-  * 012 blue
+  * 012 Dark Blue
   * 013
   * 014
   * 015
